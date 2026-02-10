@@ -179,8 +179,8 @@ nav:
   - নেটওয়ার্ক সোর্স অফ ট্রুথ (NSoT): nsot.md
   - উৎসর্গ: dedication.md
 #  - ইন্ডাস্ট্রি ট্রেন্ড: trend.md
-  - বইয়ের সম্ভাব্য চ্যাপ্টার স্ট্রাকচার: contents1.md
-  - অথবা শুধুমাত্র NSoT: contents2.md
+#  - বইয়ের সম্ভাব্য চ্যাপ্টার স্ট্রাকচার: contents1.md
+  - বইয়ের সম্ভাব্য চ্যাপ্টার স্ট্রাকচার NSoT: contents2.md
   - কেন NSoT ছাড়া স্কেল করা অসম্ভব: nsot_scale.md
   - ইনটেন্ডেড স্টেট বনাম অ্যাকচুয়াল স্টেট: two_states.md
   - NSoT-এর কোর প্রিন্সিপাল এবং Nautobot: nsot_core.md
